@@ -2,7 +2,7 @@ Please check few of my project related with data science/data analysis. For thes
 
 Anjali Aggarwal M01 DFD file is the data flow chart which shows a personalized diet plan for cancer patients.
 
-Anjali Aggarwal M01 Vizualization file showed Jitter Head Count dataset where I performed data vizualization to see if there is any relationship among the tables and patron attendance and other interesting relationship in the data.
+Anjali Aggarwal M01 Vizualization file show Jitter Head Count dataset where I performed data vizualization to see if there is any relationship among the tables and patron attendance and other interesting relationship in the data.
 
 Anjali Aggarwal M02 HypothesisSim file - by using UCI automobile data-set I identified a likely distribution for price and several other features, basic statistic by classical, bootstrap, and bayesian methods and hypothesis testing.
 
