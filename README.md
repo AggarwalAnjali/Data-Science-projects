@@ -1,4 +1,4 @@
-Please check few of my project related with data science/data analysis. I used differnt python library such as numpy and pandas for getting data from url, csv,  matplotlib, seaborn libraries for data vizulization and scikit-learn, statmodels for machine learning algorithms. 
+Please check few of my project related with data science/data analysis. For these projects I used python library such as numpy and pandas for getting data from url, csv,  matplotlib, seaborn libraries for data vizulization and scikit-learn, statmodels for machine learning algorithms. 
 
 Anjali Aggarwal M01 DFD file is the data flow chart which shows a personalized diet plan for cancer patients.
 
