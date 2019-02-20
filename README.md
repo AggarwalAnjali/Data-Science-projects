@@ -1,1 +1,1 @@
-Please check my few project related with data science.
+Please check few of my project related with data science.
